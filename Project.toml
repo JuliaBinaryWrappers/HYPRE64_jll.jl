@@ -1,6 +1,6 @@
 name = "HYPRE64_jll"
 uuid = "5bee2580-3970-51e6-a8b4-2a17126b60e0"
-version = "3.1.0+0"
+version = "3.1.0+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"

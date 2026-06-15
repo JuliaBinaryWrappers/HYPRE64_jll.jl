@@ -1,373 +1,373 @@
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "7dd7d1fdf13f172eae750f51538cea2ceeef8eb2"
+git-tree-sha1 = "d71c0980cd8a1738d9f583c115540e1ef42e627f"
 mpi = "mpiabi"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "77c7fffa0105819ff1601141d5eb3b607fb00a40ef66736eb75e612790d5ccac"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+    sha256 = "9a4321fc05453f04e29cf22097a9b60107418be76e019562c15d225a74a0b145"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "019fbb03d4f5a97dfdcb072d5c1a5df186466307"
+git-tree-sha1 = "79d64d3cf14f0a33484b479adeb62c6cc9af3797"
 mpi = "mpich"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "cb46b9c0dd2845124bcaf89b6d5df591c4a779775cf24a47e0c86e5e7675565d"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "e660893ffc2efee3b87b925b72325322fa9dd889d2ac28fee5eb44f6e6655248"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "3f5c3d6935925f623d1033b613b7d20a63c4904d"
+git-tree-sha1 = "3465470be54317adb223259c0eec510a29454192"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "ce643af67d39c94212fa4c6375dc639771b7e6747aefc0b5283e9928458febb4"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "5913dee3e1aace5a87c11e761560f20ed5a40ca5502ce57f3cbdf1da03ff3b1e"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "aea06f835c2f003913976f270975d77637ec23d0"
+git-tree-sha1 = "cf37ebb3c9d2c62f483f955781317346552611e6"
 mpi = "openmpi"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "6d95b36dd14a36ece184120859fedd161099bf22a327ad5e31f1708092929204"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "bdc50013e44f9bb9ed16cf120fea3cf9a821d7a7935f0d62a84b4a6c567013fe"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "4f8315d809bef07c613fe61b327d2c8e35566a47"
+git-tree-sha1 = "9028330aefb1a14e366db8586c980e9ebfcccd83"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "38d3517822dc84bcdf18772dab1cdcd2fb87b68a15b853122dd171489c2f4d08"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "85ecd387784762560bd7864632ff175bb2819e5f982e413a9ee20f8f8d7e653f"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "955e83013449b5992ab3902963fb8a4fa3521c72"
+git-tree-sha1 = "20b60170ae14d0d6ae90b1c519141e650cfb57f2"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "eb96e5cc586f5819cb07ff100672f9bb508777285131e28e1fa199d556156b6e"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "6de961967031daa76e4ac826f44732ac8e98be88a7afa055a8cc0b6741f6559e"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "8a53a58f99348978a1e9e9961ae79705504e1c03"
+git-tree-sha1 = "1e007974577b0d222f29c4a4c29984ac5fb81d27"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "dd1257400f0f412173d9ff0be7ead9ef02507f55546f957309f55048e4ccd91e"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "47c95e206daadd0299354d698afc595c4b7cf5e83d1366547d9724dfc71ae036"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "abde4a70e65d6e6dc3eb767f4ce556dcff56794c"
+git-tree-sha1 = "32f839f8b248b5a99fab65d8eba87745514937f5"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "3150deb97e624fd3e810047c193b2081da59d2eda2985a30d724efcb9278eaf0"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "8dc3595e2214acec0fd13f0300fc9b45e04894cfbe95011db42e5c9af8470a18"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "bc8f790eca0182db02877c9f8ca9f168376a5ab4"
+git-tree-sha1 = "9113064e32160f765fae0c50a575cc539992ed03"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "d754b6bcd5a5b3eb4949e5318f1532d10b091e5da24cbefe0bffe32acf2e3547"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+    sha256 = "bb2e5b7febbd17a4e1f2dfbfbfc433f101884fb4e09be848843b4d8f7485f686"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "e64b7bcd36b96be858780ea7f5cd1ef1a8159905"
+git-tree-sha1 = "95d12affacd3e3127f914b7fd2cf7b859517cd08"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "709acc1ef40c531511155e880f5823af430255e031cc9849aec132aa2885576b"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "c08ae0d94b4f82edb84ee0a7e3171dc393aca363e51c8287ec5d53d229527222"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "486b596eabe4e9cac55a9af54dbaec18129ace53"
+git-tree-sha1 = "7823ca878b86f66e895d3d374b6f6190276a5813"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "33b037ef5edf5fb36b79b2fd2cf2c201e977945e7497904e4aa62420140ccff3"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "fadddcfcf41c83962538e3238ddd2fca7c42a14c1bc7af2215bde41f57069f8f"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-linux-musl-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "9a515b157a5047cedf2122c897088aa9dce09047"
+git-tree-sha1 = "cd2c97151537979e26fedfc9619c3a6328ec0d20"
 mpi = "mpiabi"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "49ecff938d57f147f2bff44b656b2a02485b75ef65e23e5d192de580924bffc2"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+    sha256 = "e5d9640f8bfbf4f162de26aeb1ca7bbf39bfccc7707b9a1d21859df3f2dc5e63"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "48adf0751dfa58eb529eefd149b8fbee0eb63596"
+git-tree-sha1 = "70568dfed7ac115106e07a0146656ba2ef6e45ee"
 mpi = "mpich"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "e212f011334ffc74abaa9193d1a9f307e32af52bb5096619997794ec2665d925"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "7fe7db1d92f1f6ab5e7c24360d8187db669092a2f6cb0e70d52728b5096e4382"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "4ee0ff2c06478714913a9e97586901bbf29fabc5"
+git-tree-sha1 = "a515abb74c9f2274b2e70ef5983cc3e9fba0e8a6"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "11018414bfcdddc6ad08a23094ef96e1c41ce75dbb92b00950507a02fb5c8d70"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "f86639c26d6d975d6b1d6c05e209caadf567f124a1c69ae454a7f634fe2e3a78"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "aarch64"
-git-tree-sha1 = "dfe308a6916d3f4b7236282ba22bc66291291781"
+git-tree-sha1 = "544bebb2bc1043d9b36041b7cbfdc7cdfaca5207"
 mpi = "openmpi"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "32970c073b08d6fe5986b0278c7e5b81b009f67687450cdaa452de996e93d7e8"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "7ea3ea4d2a11f2997ff8fa3db701d4fca7227042f032e91caa459043478d253e"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "powerpc64le"
-git-tree-sha1 = "3fa84a3b070042814e88615c9007a759e41abe29"
+git-tree-sha1 = "ac5fb122d3a229a08ce7290e41136a0f9df325b5"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "3fee66bb7f67b205a1c54f859ff0f4b7687b7e9995fa93c54d3eedb7b22f8547"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "593b24e14611af95a6637f23e768c5ee73d8ded2720790474510c311650fd987"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "powerpc64le"
-git-tree-sha1 = "b776c4961b9374ba6ad0ac29578d40be1096315c"
+git-tree-sha1 = "d27eddfe00e489b54b00d26781cc6a0d4e891b0f"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "75b13dc2a9d432a196cf71146b7faf3260969e081c4ec7ac9a701de64b289d28"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "5b253a9612850f647d5db778af3b09f5fb62daf0cae5ef485ceebf0c16bfb0f7"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "powerpc64le"
-git-tree-sha1 = "3c3bafb50034c1a8e2dad114c5aff2e965fd75c0"
+git-tree-sha1 = "fc3d81634a4f5e000b1ab51e5eba34aed9c93de2"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "ca5b5ec24b5d091ce1b25ad5f807208105c9c2a345f9ca4ef243f1f611e78113"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "d75e7ec274828118337b7e66363ba6825c1ecb9e7f963aa5d2bbf6f7e71930a9"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "powerpc64le"
-git-tree-sha1 = "c536904883feb42d53f4d4f089bc0e8f36e70eb3"
+git-tree-sha1 = "ee76d837a0d334ba9000f8432b0f6374504cf972"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "8b9439f9f86424178bd7bebed86f5aa29e2d5b355974037bb33d0c8f9a5385bd"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "5bb90dc01356876adc14965736d0bdf2c045cb078475c477d792619271094d37"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "riscv64"
-git-tree-sha1 = "afb841c01fbe71a1c68f37ee48905ba1499fe13a"
+git-tree-sha1 = "dd5628ce29cc93ad8d7e09dea9f4e195d44cd22d"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "d6f06bc71142c293b811b25da9b41a8611624082260d43eb47a3386386da5bfa"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "a8d0ad45847c94b7fb3778abdf38e7a619e02da3dc9e6f359fb4dc81b75238d6"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "riscv64"
-git-tree-sha1 = "fe055180e568a19b1beac4b475551a9b4283d37a"
+git-tree-sha1 = "d520ee86c79e25b9f852c6928a0bcb1e499d87ed"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "0ad60d41d647d808d77dca8fc5d943f2179894deb9046b606cc284a8d3bcc1c6"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "45dd2d73a877c2e85b6c24bb9c618fd5e3a64f540f5ba8d10ee9beb35e663510"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "riscv64"
-git-tree-sha1 = "1777e9f2ab4ce832626b61cd371acc50c0bb90ea"
+git-tree-sha1 = "940e6aaffded7f242ffdfb20c3ecd563e7772c2f"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "e3293fb1734db77471a332af0a6e29a0d7a07e8c1e0fb119694f3a70f462a98f"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "588ef7a8f8fb871179a4505ab931c1d7f39928ca3ba0277995b1bcf6b1b7c69f"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "riscv64"
-git-tree-sha1 = "5cde24d7815e071606010d242767792f7f76a589"
+git-tree-sha1 = "5e66b86dbc61891a59b8834d447d903d2944a9b0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "139be32f3c626ccca33878e63f46e70f5d8681eea3860f9bca3f9157db8919c3"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "738dc8f37425da5942ea6cd7d51e18ddf1663f586d376789272423be13215223"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.riscv64-linux-gnu-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "af99c30ccb73547c142bcc4ffd783a82639a1d3b"
+git-tree-sha1 = "9857b1e2eedb5345c17d74eab3bda862fd04703e"
 mpi = "mpiabi"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "3a7ccc9f29bb64fad31c75f52982dc3205097575377a23920b83c80b2c3a35e7"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+    sha256 = "4a8c6acfe458e91e980761bbbd30acc38a5096a1f6a06b1f3348438f4918dd48"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "d47af3880f60926c2d70eacf89b91e0ca2cbf009"
+git-tree-sha1 = "0faeb62ddf6c85e265d6873f0e66d722c694679f"
 mpi = "mpich"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "cd0f764e864e0f3e386d058a7d35bb73ef718d2111125243f3d358909f8b1aad"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "7c1f3149f1d2ecbdd2a2228ecab348cd0f1eb1c91f29b835643b4c5c1c6399f1"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "a06d3e115d8b115ad20d648d2c631002e7fee9b6"
+git-tree-sha1 = "86361531eb027bb74d8789476d6b81188317f02d"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "22ec49d29d7d35339f8549fe9d9493b4ee17971c368b9696055c7cbfc74244a1"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "29fc676f7c366599c2971332add79a42b8355dc9fe6f7353a6bce559d953b294"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "1b71e3c02da506dd47429cff401de23380b52993"
+git-tree-sha1 = "75b9ce83ea9c42ab2e2a415dcd30812541965841"
 mpi = "openmpi"
 os = "macos"
 
     [[HYPRE64.download]]
-    sha256 = "14abd864f1dc4928bdeca6c090de84b884998cd1747f107c011d1116653cfceb"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "44dd91483866b0a196904f905dab9e88e219c068c292e186cf9209d177833d6a"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "f9fee974b61698d5dc5fa67cec9d148c0ca68ad7"
+git-tree-sha1 = "95be379ddba59efda0a2adf6f0acedee69ee067a"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "1802654cb7a7d1934de644191f19264136a211bccc5bea4a7072cc49c268dea3"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "ccead250c55afa199b6d0229a8fe53f5d3646f20ae907b10824f0238871ca1c5"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "c4263bf280c14be952284953fda8c85f97e56af7"
+git-tree-sha1 = "eab0593f347beaba53fcb6443babcee0dec09ce1"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "11a962f15a2f5604f4da351e81fc815e9641636a98f44c31b768f85f2c0f0d1d"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "049af3f5535d6bdbc2f51c6c660630bf975322845702506d26a35e2fdf995ffd"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "0ef1e12ec604aa0ee3f1744084df26bc0946ab5e"
+git-tree-sha1 = "2192e5dbd2dcb2f9bd87eaba4de05174e1984ed0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "8730b4fa1db7334bd5310a0f88ff389d91620e874b3e0497ed128c9b07829547"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "b597ed2ee5d791aef990ae3810a6748df94f374b639327c710463dfb8eac228a"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "918d3e49180708de1d354e1a45dacbcc074ed3c2"
+git-tree-sha1 = "56084d8caba81484a70675b4f38599c08889cddb"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "c5399f51d1c7f111a779b1c5770010475101e48bbe6d2ffc73f60ad5f13b7e6b"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "f58c58a01b476852b3c4a692243016f88b4cdc9f2424decccb41c2e0e6565354"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "1c4ff8dbd87687edd354ed995551a9adf487a8d2"
+git-tree-sha1 = "52594b5516394a619e1f715e42f57b198683b073"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "30f6da255aa294b32538d49571de0b8a64dae96f3d5532e06471e34c72e0a5da"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+    sha256 = "86d952344485fe6c26b25fb785f338fe51cc19d1df78cd1cd0125268a2e75a7e"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "9c6db4f33ba1ec067a8ce2018e3319ebca9a037c"
+git-tree-sha1 = "df4e93897cbd320b6e895d847bda513217404dc8"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "c8105453ac7f34a9e4ede846c3d1ad68c6783f8cb17497e6bb71209c6f0f8ef1"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "9a8ab2d93ae12dd3f59f58ed2cb76f714f08a7e069cad2f3af056d37f7f72727"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "fc19eb8262146355075c52131e21f5298385e2a2"
+git-tree-sha1 = "11f74a77cb37861c1ed230735615c67496c21f23"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[HYPRE64.download]]
-    sha256 = "3b4f0e3e6a4ff7d84d540c01347d65e8dc704319f580655d6d22a94df3da7bfb"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "8b9b1ee3962a636c501768ff2f085c34e0302a91ec89fa25520e6c2410ac7c34"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-linux-musl-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "380a701f8896fcfab2c5c4d9bab24b252ac0ef4a"
+git-tree-sha1 = "545623633756619d7f950849a280005785b790ba"
 mpi = "mpiabi"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "5431681185f95115a9b613ae1022b12e55d68f23950249cb4191a8bd2bc8915e"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+    sha256 = "cc454f9d247fe9d469bec7f1b4d1e2fe0f8640e04d9c27e6c2f96bce3c61e906"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "2e7044fc126b60c61e39e0d5fe72fcc05430b73a"
+git-tree-sha1 = "8c8f2dbf9dcd0380154e7de1e17fc01ac68ba621"
 mpi = "mpich"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "50f33fcee032083f07d6212e010deffa372786957ea2f76895cef798fe7f40de"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "13cfabd5d0283ca682652ce50073f628191df4d651d8238d34a76267b25e75e6"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "f152096bbad31af5287ab897256df5aa17880523"
+git-tree-sha1 = "ae25fae5200201789ac0381911a1bff8a5a7b658"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "b896878fe6660f8bbfc75df71d6125443255ed623b32eaf4a9d66532cd02edca"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "a34e2eb01b9ea19a66a7012b460e76242daa43a3fec6f4466ad1d8220047fe89"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "fc2849f837939658d26e7c0e4118f97859e8b527"
+git-tree-sha1 = "6bfdd6fa63bd97ccd2a08260eb28da2622407009"
 mpi = "openmpi"
 os = "freebsd"
 
     [[HYPRE64.download]]
-    sha256 = "64ce0a3ab8619dfdfbad9048b467a8373c36c00c9aa2025d9d8fe302bd4eb477"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "9efac2f7b2dc60efc68f2b7d580af6427a9f39c57aa82668169bdb019e8106ab"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[HYPRE64]]
 arch = "x86_64"
-git-tree-sha1 = "71be2b8a330fe7eb59600c809fd82b380a5e552f"
+git-tree-sha1 = "5b1a024e327368c6847c07d222aa1d87c9cf90af"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[HYPRE64.download]]
-    sha256 = "de330b416ba670694d04736a7948c71d7ca5d544e943135059a2c58243019643"
-    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+0/HYPRE64.v3.1.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
+    sha256 = "652a2f7280d59d302b683d86897880568144a044407b739a6c7d0083cbe298e8"
+    url = "https://github.com/JuliaBinaryWrappers/HYPRE64_jll.jl/releases/download/HYPRE64-v3.1.0+1/HYPRE64.v3.1.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
