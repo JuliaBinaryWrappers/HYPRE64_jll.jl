@@ -5,7 +5,7 @@ using libblastrampoline_jll
 using LLVMOpenMP_jll
 using MPIABI_jll
 JLLWrappers.@generate_wrapper_header("HYPRE64")
-JLLWrappers.@declare_library_product(libHYPRE64, "@rpath/libHYPRE64.dylib")
+JLLWrappers.@declare_library_product(libHYPRE64, "@rpath/libHYPRE64.301.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, LLVMOpenMP_jll, MPIABI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
